@@ -4,6 +4,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+ background: url(../Thekr1.jpg) center/cover no-repeat;
   /* background-position: center;
     background-size: cover;
     background-repeat: no-repeat; */
@@ -30,6 +31,7 @@ h1 {
   /* check */
   padding: 1rem;
   font-weight: bold;
+  box-shadow: 3px 3px 10px black;
 }
 
 /* enhance */
